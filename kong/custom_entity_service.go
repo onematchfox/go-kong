@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/kong/go-kong/kong/custom"
+	"github.com/onematchfox/go-kong/kong/custom"
 )
 
 // AbstractCustomEntityService handles custom entities in Kong.

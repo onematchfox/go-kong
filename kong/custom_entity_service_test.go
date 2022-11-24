@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/kong/go-kong/kong/custom"
+	"github.com/onematchfox/go-kong/kong/custom"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kong/go-kong/kong/custom"
+	"github.com/onematchfox/go-kong/kong/custom"
 )
 
 const (
